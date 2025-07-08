@@ -4,4 +4,4 @@ I'm a software engineer at Vanguard and a graduate of the Computer & Information
 
 Before studying at the University of Pennsylvania, I graduated with a Bachelor of Music (Pipe Organ Performance) and a Certificate in Harpsichord Studies from the Curtis Institute of Music.
 
-You can reach me at <adrianbinkley@gmail.com> or on [LinkedIn](https://www.linkedin.com/in/adrian-binkley/), and you can check out my website at [adrianbinkley.com](https://www.adrianbinkley.com/)
+You can reach me at <adrianbinkley@gmail.com> or on [LinkedIn](https://www.linkedin.com/in/adrian-binkley/), and you can check out my website at [adrianbinkley.com](https://adrianbinkley.com/)
